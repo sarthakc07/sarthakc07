@@ -35,6 +35,13 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 
 ---
 
+### 🚀 Featured Projects
 
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Industrial AI Adoption**<br> *🚧 in progress* | Synthesizing empirical research on socio-technical barriers and incident datasets regarding enterprise AI implementation. | Empirical SE, Socio-Technical Systems |
+| **Quantum Graph States** | Researched computational frameworks and visualization prototypes for local complementation in quantum networks. | Python, NetworkX, Tkinter |
+| **FeatJAR & FeatureIDE** | Contributed to software configuration tool development for software variability management. | Software Configuration, Integration |
+| **NutriXR** | Conducted literature analysis and requirements engineering for virtual reality sustainability education environments. | Requirements Engineering, Sustainability Metrics |
 
 
