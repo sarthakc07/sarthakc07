@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://canva.link/u9zw198186xa4sj" alt="Banner" width="100%" />
+  <img src=""C:\Users\ADMIN\Downloads\Blue and Dark Modern Tech LinkedIn Banner.png"" alt="Banner" width="100%" />
 </div>
 
 I spent three years as a System Engineer at Tata Consultancy Services, and I am currently pursuing my Master's in Computer Science in Germany. My work bridges empirical software engineering with human-technology-organization frameworks, focusing on the socio-technical barriers of enterprise digital transformation.
