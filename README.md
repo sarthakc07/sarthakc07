@@ -5,8 +5,11 @@
 I spent three years as a System Engineer at Tata Consultancy Services, and I am currently pursuing my Master's in Computer Science in Germany. My work bridges empirical software engineering with human-technology-organization frameworks, focusing on the socio-technical barriers of enterprise digital transformation.
 
 * 🔭 **Currently working on:** A research synthesis analyzing empirical incident datasets and adoption barriers for industrial AI.
+
 * 🌱 **Deepening my knowledge in:** Socio-technical systems, Human-Technology-Organization (HTO) frameworks, and enterprise digital transformation.
+
 * 💼 **Open to:** Working student roles and internships in AI Transformation/Digital Transformation/Data Analysis.
+
 * 📫 **Reach me at:** sarthakchaudhari23@gmail.com
 
 ### 🛠️ Tech Stack
