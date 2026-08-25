@@ -49,8 +49,8 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakc07&show_icons=true&theme=dark&hide_border=true" alt="sarthakc07's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakc07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sarthakc07&show_icons=true&theme=dark&hide_border=true" alt="sarthakc07's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarthakc07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -60,7 +60,7 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 <a href="https://www.linkedin.com/in/sarthak-chaudhari23/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:[YOUR_EMAIL_HERE]">
+<a href="mailto:sarthakchaudhari23@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://sarthakc07.github.io/AI-Adoption-Research/">
