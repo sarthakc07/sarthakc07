@@ -44,4 +44,25 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 | **FeatJAR & FeatureIDE** | Contributed to software configuration tool development for software variability management. | Java, Software Configuration, Integration |
 | **NutriXR** | Conducted literature analysis and requirements engineering for VR sustainability education environments. | Requirements Engineering, Sustainability Metrics |
 
+---
 
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakc07&show_icons=true&theme=dark&hide_border=true" alt="sarthakc07's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakc07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/sarthak-chaudhari23/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:[YOUR_EMAIL_HERE]">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://sarthakc07.github.io/AI-Adoption-Research/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
+</a>
