@@ -20,17 +20,21 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 
 **AI & ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=red)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-005C8A?style=flat-square&logo=python&logoColor=blue)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-red?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-green?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=black)
+![Pillow](https://img.shields.io/badge/Pillow-yellow?style=flat-square&logo=python&logoColor=black)
+![NetworkX](https://img.shields.io/badge/NetworkX-orange?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat-square&logo=python&logoColor=white)
 
 **Development**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=pycharm&logoColor=white)
+
+---
+
+
 
 
