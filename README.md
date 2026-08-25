@@ -1,6 +1,8 @@
+
 <div align="center">
-  <img src="banner.png" alt="Sarthak Chaudhari's Banner" width="100%" />
+  <img src="[banner.png](https://github.com/user-attachments/assets/d7aeec15-f94b-4143-b468-20888b95f846)" alt="Banner" width="100%" />
 </div>
+
 
 I spent three years as a System Engineer at Tata Consultancy Services, and I am currently pursuing my Master's in Computer Science in Germany. My work bridges empirical software engineering with human-technology-organization frameworks, focusing on the socio-technical barriers of enterprise digital transformation.
 
