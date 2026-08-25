@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""banner.png"" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </div>
 
 I spent three years as a System Engineer at Tata Consultancy Services, and I am currently pursuing my Master's in Computer Science in Germany. My work bridges empirical software engineering with human-technology-organization frameworks, focusing on the socio-technical barriers of enterprise digital transformation.
@@ -25,3 +25,5 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 **Development**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/04c1fa93-4060-43bf-9f65-0fdea8fa77ec" />
