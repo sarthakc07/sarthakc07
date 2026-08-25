@@ -14,9 +14,12 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 
 * 📫 **Reach me at:** sarthakchaudhari23@gmail.com
 
+---
+
 ### 🛠️ Tech Stack
 
 **AI & ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -25,6 +28,7 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Development**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
