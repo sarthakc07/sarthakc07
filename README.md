@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/d7aeec15-f94b-4143-b468-20888b95f846" alt="Banner" width="100%" />
 </div>
 
-
+---
 I spent three years as a System Engineer at Tata Consultancy Services, and I am currently pursuing my Master's in Computer Science in Germany. My work bridges empirical software engineering with human-technology-organization frameworks, focusing on the socio-technical barriers of enterprise digital transformation.
 
 * 🔭 **Currently working on:** A research synthesis analyzing empirical incident datasets and adoption barriers for industrial AI.
@@ -20,11 +20,11 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 
 **AI & ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=red)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
-![NetworkX](https://img.shields.io/badge/NetworkX-005C8A?style=flat-square&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-005C8A?style=flat-square&logo=python&logoColor=blue)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Development**
