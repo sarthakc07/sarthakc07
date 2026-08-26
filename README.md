@@ -28,6 +28,20 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 ![NetworkX](https://img.shields.io/badge/NetworkX-orange?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat-square&logo=python&logoColor=white)
 
+**Generative AI & LLM Frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-RAG_Pipelines-1C3C3C?logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Embeddings-FFD21E?logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-Fast_Inference-F55036?logo=groq&logoColor=white)
+
+**Databases & Data Engineering**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-FF6F00?logo=chroma&logoColor=white)
+
+**Frontend & Cloud Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_UI-FF4B4B?logo=streamlit&logoColor=white)
+
 **Development**
 
 ![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git&logoColor=white)
