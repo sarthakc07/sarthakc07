@@ -16,6 +16,13 @@ I spent three years as a System Engineer at Tata Consultancy Services, and I am 
 
 ---
 
+### 🚀 Interactive Research Assistant
+Explore the empirical dataset of 1,607 AI incidents and cross-dimensional HTO friction points through my custom Retrieval-Augmented Generation (RAG) dashboard.
+
+[![Launch Dashboard](https://img.shields.io/badge/Launch_Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-incident-research.streamlit.app/)
+
+---
+
 ### 🛠️ Tech Stack
 
 **AI & ML**
